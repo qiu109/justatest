@@ -1,2 +1,2 @@
 # justatest
-add &A some
+add &BA some
